@@ -1,7 +1,7 @@
 var app = {
 
     arrow : 'null',
-    columns: 6, // vous pouvez faire varier le nombre de colonnes
+    columns: 7, // vous pouvez faire varier le nombre de colonnes
     rows: 4, // vous pouvez faire varier le nombres de lignes
     
 
